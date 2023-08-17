@@ -1,5 +1,7 @@
 # Logo Generator
 
+![LG logo](assets/screenshot.png)
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -26,7 +28,7 @@ Distributed under the MIT License.
 Steve Weede
 
 ## Tests
-
+After installing jest run npm run test in your terminal.
 
 ## Questions
 Please send questions to:

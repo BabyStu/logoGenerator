@@ -2,12 +2,15 @@
     "name": "logogenerator",
     "version": "1.0.0",
     "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
     "license": "N/A",
     "dependencies": {
         "express": "^4.17.1",
         "inquirer": "^8.2.4"
     },
     "devDependencies": {
-        "jest": "^29.6.2"
+        "jest": "^24.9.0"
     }
 }
