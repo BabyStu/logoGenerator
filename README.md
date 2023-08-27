@@ -2,6 +2,9 @@
 
 ![LG logo](assets/screenshot.png)
 
+[![Watch video](https://img.youtube.com/vi/kKzDiXh6KeM/0.jpg)](https://youtu.be/kKzDiXh6KeM)
+
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
